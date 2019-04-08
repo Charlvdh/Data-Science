@@ -4,4 +4,5 @@
 
 1. Neural Network and Deep Learning
 
-  * [Logistic Regression with a Neural Network Mindset](https://github.com/Charlvdh/Data-Science/tree/master/deep_learning/Logistic%20Regression%20with%20a%20Neural%20Network%20Mindset)
+  * [Logistic Regression with a Neural Network Mindset](https://github.com/Charlvdh/Data-Science/tree/master/deep_learning/Logistic-regression-with-a-neural-network-mindset)
+  * [Planar-data-classification-with-one-hidden-layer](https://github.com/Charlvdh/Data-Science/tree/master/deep_learning/Planar-data-classification-with-one-hidden-layer)
