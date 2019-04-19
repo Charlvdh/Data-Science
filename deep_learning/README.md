@@ -1,6 +1,6 @@
 # Deep Learning
 
-**This folder contains my projects from Andrew Ng'sdeeplearning.ai course on Coursera**
+**This folder contains my projects from Andrew Ng's deeplearning.ai course on Coursera**
 
 ----
 
