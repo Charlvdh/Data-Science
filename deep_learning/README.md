@@ -13,16 +13,22 @@
 
 ## Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
+  * [Initialisation](https://github.com/Charlvdh/Data-Science/tree/master/deep_learning/Course_2/Initialisation)
+  * [Regularisation](https://github.com/Charlvdh/Data-Science/tree/master/deep_learning/Course_2/Regularisation)
+  * [Gradient-checking](https://github.com/Charlvdh/Data-Science/tree/master/deep_learning/Course_2/Gradient-checking)
+  * [Optimisation](https://github.com/Charlvdh/Data-Science/tree/master/deep_learning/Course_2/Optimisation)
+  * [Tensorflow](https://github.com/Charlvdh/Data-Science/tree/master/deep_learning/Course_2/Tensorflow)
 
 
   ----
   
 ## Side projects / experiments
 
-  * [Plotting-a-decision-boundary-in-2D-space](https://github.com/Charlvdh/Data-Science/tree/master/deep_learning/Plotting-a decision-boundary-in-2D-space)
+  * [Plotting-a-decision-boundary-in-2D-space](https://github.com/Charlvdh/Data-Science/tree/master/deep_learning/Plotting-a-decision-boundary-in-2D-space)
 
 ## Interesting reading
 
   * [Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
+  * [ADAM: A METHOD FOR STOCHASTIC OPTIMIZATION](https://arxiv.org/pdf/1412.6980.pdf)
 
 
