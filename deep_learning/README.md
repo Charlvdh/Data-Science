@@ -18,17 +18,36 @@
   * [Gradient-checking](https://github.com/Charlvdh/Data-Science/tree/master/deep_learning/Course_2/Gradient-checking)
   * [Optimisation](https://github.com/Charlvdh/Data-Science/tree/master/deep_learning/Course_2/Optimisation)
   * [Tensorflow](https://github.com/Charlvdh/Data-Science/tree/master/deep_learning/Course_2/Tensorflow)
+  
+## Course 3: Structuring machine Learning Projects
+  
+  * Note that no projects were included in this section
+  
+## Course 4: Convolutional Neural Networks
 
+  * [Numpy-implementation](https://github.com/Charlvdh/Data-Science/tree/master/deep_learning/Course_4/Numpy-implementation)
+  * [Keras-tutorial](https://github.com/Charlvdh/Data-Science/tree/master/deep_learning/Course_4/Keras-tutorial)
+  
+## Course 5: Sequence Models
+
+  * [Building-a-RNN](https://github.com/Charlvdh/Data-Science/tree/master/deep_learning/Course_5/Building-a-RNN)
+  * [Character-level-language-modeling](https://github.com/Charlvdh/Data-Science/tree/master/deep_learning/Course_5/Character-level-language-modeling)
+  * [Word-vector-representation](https://github.com/Charlvdh/Data-Science/tree/master/deep_learning/Course_5/Word-vector-representation)
+  * [Word-vector-representation](https://github.com/Charlvdh/Data-Science/tree/master/deep_learning/Course_5/Word-vector-representation)
+  * [LSTM-network](https://github.com/Charlvdh/Data-Science/tree/master/deep_learning/Course_5/LSTM-network)
+  * [Emojify](https://github.com/Charlvdh/Data-Science/tree/master/deep_learning/Course_5/Emojify)
 
   ----
   
 ## Side projects / experiments
 
   * [Plotting-a-decision-boundary-in-2D-space](https://github.com/Charlvdh/Data-Science/tree/master/deep_learning/Plotting-a-decision-boundary-in-2D-space)
+  * [Plotting-a-decision-boundary-in-3D-space](https://github.com/Charlvdh/Data-Science/tree/master/deep_learning/Plotting-a-decision-boundary-in-3D-space)
 
 ## Interesting reading
 
   * [Efficient BackProp](http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
   * [ADAM: A METHOD FOR STOCHASTIC OPTIMIZATION](https://arxiv.org/pdf/1412.6980.pdf)
+  * [Convolutional Neural Network Papers](https://github.com/Charlvdh/Data-Science/tree/master/deep_learning/papers)
 
 
